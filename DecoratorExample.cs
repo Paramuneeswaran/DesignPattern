@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace DesignPattern
 {
     // The Component abstract class defines an interface for objects that can have responsibilities added to them dynamically.
